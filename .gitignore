@@ -1,0 +1,5 @@
+# Exclude data files (Download from here: )
+/data/
+
+# Exclude model files (Download from here: )
+/all_models/
