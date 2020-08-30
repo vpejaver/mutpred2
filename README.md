@@ -6,15 +6,11 @@
 * At least 7 GB disk space (code + [data and model files](http://mutpred.mutdb.org/model_and_data_files.tar.gz))
 
 ## Description of files and sub-directories
-*mutpred2.m*: the main MATLAB function that makes predictions (calls the different functions in *all_functions*).
-
-*startup.m*: contains code to include the all files in the repo in MATLAB path (**edit file before using** - change the path to the location of the MutPred2 repo).
-
-*excluded_builtin_functions.txt*: all MATLAB functions that are part of the Bioinformatics or Statistics toolboxes that cannot be included under MATLAB's licensing restrictions.
-
-*all_functions* - directory containing all helper functions called by *mutpred2.m*.
-
-*blast-2.2.18* - legacy version of the PSI-BLAST executable that is compatible with MutPred2 (*bin* subdirectory) and data files associated with PSI-BLAST (*data* subdirectory).
+* *mutpred2.m*: the main MATLAB function that makes predictions (calls the different functions in *all_functions*).
+* *startup.m*: contains code to include the all files in the repo in MATLAB path (**edit file before using** - change the path to the location of the MutPred2 repo).
+* *excluded_builtin_functions.txt*: all MATLAB functions that are part of the Bioinformatics or Statistics toolboxes that cannot be included under MATLAB's licensing restrictions.
+* *all_functions* - directory containing all helper functions called by *mutpred2.m*.
+* *blast-2.2.18* - legacy version of the PSI-BLAST executable that is compatible with MutPred2 (*bin* subdirectory) and data files associated with PSI-BLAST (*data* subdirectory).
 
 ## Citation
 If you use code from this repository, the web-server or the standalone executable in your work, please cite:
