@@ -7,15 +7,20 @@
 
 ## Description of files and sub-directories
 *mutpred2.m*: the main MATLAB function that makes predictions (calls the different functions in *all_functions*).
+
 *startup.m*: contains code to include the all files in the repo in MATLAB path (**edit file before using** - change the path to the location of the MutPred2 repo).
+
 *excluded_builtin_functions.txt*: all MATLAB functions that are part of the Bioinformatics or Statistics toolboxes that cannot be included under MATLAB's licensing restrictions.
+
 *all_functions* - directory containing all helper functions called by *mutpred2.m*.
+
 *blast-2.2.18* - legacy version of the PSI-BLAST executable that is compatible with MutPred2 (*bin* subdirectory) and data files associated with PSI-BLAST (*data* subdirectory).
 
 ## Citation
 If you use code from this repository, the web-server or the standalone executable in your work, please cite:
 
 **MutPred2: inferring the molecular and phenotypic impact of amino acid variants**
+
 Vikas Pejaver, Jorge Urresti, Jose Lugo-Martinez, Kymberleigh A. Pagel, Guan Ning Lin, Hyun-Jun Nam, Matthew Mort, David N. Cooper, Jonathan Sebat, Lilia M. Iakoucheva, Sean D. Mooney, Predrag Radivojac
 *bioRxiv* 134981; doi: [https://doi.org/10.1101/134981](https://doi.org/10.1101/134981)
 
