@@ -17,8 +17,7 @@ If you use code from this repository, the web-server or the standalone executabl
 
 **Inferring the molecular and phenotypic impact of amino acid variants with MutPred2**
 
-Vikas Pejaver, Jorge Urresti, Jose Lugo-Martinez, Kymberleigh A. Pagel, Guan Ning Lin, Hyun-Jun Nam, Matthew Mort, David N. Cooper, Jonathan Sebat, Lilia M. Iakoucheva, Sean D. Mooney, Predrag Radivojac
-*Nat. Commun.* 11, 5918 (2020)
+Vikas Pejaver, Jorge Urresti, Jose Lugo-Martinez, Kymberleigh A. Pagel, Guan Ning Lin, Hyun-Jun Nam, Matthew Mort, David N. Cooper, Jonathan Sebat, Lilia M. Iakoucheva, Sean D. Mooney, Predrag Radivojac. *Nat. Commun.* 11, 5918 (2020)
 
 ## Additional notes
 ### Data and code
