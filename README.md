@@ -15,10 +15,10 @@
 ## Citation
 If you use code from this repository, the web-server or the standalone executable in your work, please cite:
 
-**MutPred2: inferring the molecular and phenotypic impact of amino acid variants**
+**Inferring the molecular and phenotypic impact of amino acid variants with MutPred2**
 
 Vikas Pejaver, Jorge Urresti, Jose Lugo-Martinez, Kymberleigh A. Pagel, Guan Ning Lin, Hyun-Jun Nam, Matthew Mort, David N. Cooper, Jonathan Sebat, Lilia M. Iakoucheva, Sean D. Mooney, Predrag Radivojac
-*bioRxiv* 134981; doi: [https://doi.org/10.1101/134981](https://doi.org/10.1101/134981)
+*Nat. Commun.* 11, 5918 (2020)
 
 ## Additional notes
 ### Data and code
@@ -27,6 +27,6 @@ Vikas Pejaver, Jorge Urresti, Jose Lugo-Martinez, Kymberleigh A. Pagel, Guan Nin
 * If you are looking for MutPred2's training set, a subset of the training data for MutPred2 is available [here](http://mutpred.mutdb.org/wo_exclusive_hgmd_mp2_training_data.txt).
 
 ### License
-* We cannot share MATLAB-related files or any of MATLAB's proprietary functionsand have excluded them to the best extent possible. However, please be aware of MATLAB's licensing restrictions when modifying and/or redistributing any code.
+* Although we distribute the source code under the MIT licence, we cannot share MATLAB-related files or any of MATLAB's proprietary functions and have excluded them to the best extent possible. However, please be aware of MATLAB's licensing restrictions when modifying and/or redistributing any code.
 * Although MutPred2 requires an unsupported legacy version of PSI-BLAST, please refer to the BLAST suite's license before modifying and/or redistributing.
 
